@@ -1,5 +1,7 @@
 # ADP_certificate_preperation
 
+*2022년 3월 31일에 ADP 실기 준비를 하면서 원작자분의 깃을 fork하였습니다. 감사합니다.
+
 20회 ADP를 준비하면서 포스팅 했던 python 파일들을 모아놓은 repository입니다.
 
 해당 포스팅이 유용하시다고 생각되시면, 우측 상단에 Star 부탁드리겠습니다.
